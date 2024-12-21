@@ -5,7 +5,7 @@
 ---
 ## SETUP
 
-* Clone project: `git clone <repo_url>`
+* Clone project: `git clone https://github.com/ankitsmt211/content-review-system.git`
 * Create virtual environment: `python -m venv venv
 `
 * Activate virtual enviroment: `venv\Scripts\activate
