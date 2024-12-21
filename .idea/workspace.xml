@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b57ccdd-626e-454a-b06a-ceeb023cd4ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/contentUpload.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentUpload/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentUpload/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentUpload/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentUpload/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentUpload/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contentUpload/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/contentUpload/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contentUpload/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contentUpload/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie/models/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie/models/movie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +40,7 @@
     "Django Server.contentUpload.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -100,11 +94,33 @@
       <option name="presentableId" value="Default" />
       <updated>1734711087504</updated>
       <workItem from="1734711113791" duration="2378000" />
-      <workItem from="1734766400815" duration="3889000" />
+      <workItem from="1734766400815" duration="17701000" />
+      <workItem from="1734795718839" duration="14390000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/movie/views/movie.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/movie/views/movie.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/movie/views/movie.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
