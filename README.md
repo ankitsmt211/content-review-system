@@ -10,6 +10,7 @@
 `
 * Activate virtual enviroment: `venv\Scripts\activate
 `
+* Move to project Dir: `cd  content-review-system`
 * Install dependencies: `pip install -r requirements.txt
 `
 * Apply Migrations: `python manage.py migrate
