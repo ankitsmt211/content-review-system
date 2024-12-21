@@ -17,6 +17,7 @@
 `
 * Run server: `python manage.py runserver
 `
+* Now you can use the API, make sure local server port matches
 ---
 ## Supported APIs
 * GET `/movie/list`
